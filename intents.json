@@ -1,0 +1,130 @@
+{
+    "intents": [
+        {
+            "tag": "XDR Platform",
+            "patterns": [
+                "What is the XDR platform?",
+                "Why is the XDR platform?",
+                "How helpful is the XDR platform?",
+                "How to login to the XDR platform?",
+                "What is the XDR platform?",
+                "Why is the XDR platform?",
+                "How helpful is the XDR platform?",
+                "How to login to the XDR platform?",
+                "What is the XDR platform?",
+                "Why is the XDR platform?",
+                "How helpful is the XDR platform?",
+                "How to login to the XDR platform?",
+                "What is the XDR platform?",
+                "Why is the XDR platform?",
+                "How helpful is the XDR platform?",
+                "How to login to the XDR platform?"
+            ]
+        },
+        {
+            "tag": "Endpoint Security",
+            "patterns": [
+                "What is the Endpoint Security",
+                "Why is the Endpoint Security",
+                "How helpful is the Endpoint Security",
+                "How to login to the Endpoint Security",
+                "What is the Endpoint Security",
+                "Why is the Endpoint Security",
+                "How helpful is the Endpoint Security",
+                "How to login to the Endpoint Security",
+                "What is the Endpoint Security",
+                "Why is the Endpoint Security",
+                "How helpful is the Endpoint Security",
+                "How to login to the Endpoint Security",
+                "What is the Endpoint Security",
+                "Why is the Endpoint Security",
+                "How helpful is the Endpoint Security",
+                "How to login to the Endpoint Security"
+            ]
+        },
+        {
+            "tag": "SecOps Analytics",
+            "patterns": [
+                "What is the SecOps Analystics",
+                "Why is the SecOps Analystics",
+                "How helpful is the SecOps Analystics",
+                "How to login to the SecOps Analystics",
+                "What is the SecOps Analystics",
+                "Why is the SecOps Analystics",
+                "How helpful is the SecOps Analystics",
+                "How to login to the SecOps Analystics",
+                "What is the SecOps Analystics",
+                "Why is the SecOps Analystics",
+                "How helpful is the SecOps Analystics",
+                "How to login to the SecOps Analystics",
+                "What is the SecOps Analystics",
+                "Why is the SecOps Analystics",
+                "How helpful is the SecOps Analystics",
+                "How to login to the SecOps Analystics"
+            ]
+        },
+        {
+            "tag": "Data Protection",
+            "patterns": [
+                "What is the Data Protection",
+                "Why is the Data Protection",
+                "How helpful is the Data Protection",
+                "How to login to the Data Protection",
+                "What is the Data Protection",
+                "Why is the Data Protection",
+                "How helpful is the Data Protection",
+                "How to login to the Data Protection",
+                "What is the Data Protection",
+                "Why is the Data Protection",
+                "How helpful is the Data Protection",
+                "How to login to the Data Protection",
+                "What is the Data Protection",
+                "Why is the Data Protection",
+                "How helpful is the Data Protection",
+                "How to login to the Data Protection"
+            ]
+        },
+        {
+            "tag": "Network Detection and Response",
+            "patterns": [
+                "What is the Network Detection and Response",
+                "Why is the Network Detection and Response",
+                "How helpful is the Network Detection and Response",
+                "How to login to the Network Detection and Response",
+                "What is the Network Detection and Response",
+                "Why is the Network Detection and Response",
+                "How helpful is the Network Detection and Response",
+                "How to login to the Network Detection and Response",
+                "What is the Network Detection and Response",
+                "Why is the Network Detection and Response",
+                "How helpful is the Network Detection and Response",
+                "How to login to the Network Detection and Response",
+                "What is the Network Detection and Response",
+                "Why is the Network Detection and Response",
+                "How helpful is the Network Detection and Response",
+                "How to login to the Network Detection and Response"
+            ]
+        },
+        {
+            "tag": "Email Security",
+            "patterns": [
+                "What is the Email Security",
+                "Why is the Email Security",
+                "How helpful is the Email Security",
+                "How to login to the Email Security",
+                "What is the Email Security",
+                "Why is the Email Security",
+                "How helpful is the Email Security",
+                "How to login to the Email Security",
+                "What is the Email Security",
+                "Why is the Email Security",
+                "How helpful is the Email Security",
+                "How to login to the Email Security",
+                "What is the Email Security",
+                "Why is the Email Security",
+                "How helpful is the Email Security",
+                "How to login to the Email Security"
+            ]
+        }
+    ]
+}
